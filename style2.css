@@ -1,0 +1,16 @@
+.district-container {
+    max-width: 800px;
+    margin: 50px auto;
+    text-align: center;
+}
+
+.district-container img {
+    width: 100%;
+    height: auto;
+    margin-bottom: 20px;
+}
+
+.district-container p {
+    font-size: 1.2em;
+    line-height: 1.6;
+}
